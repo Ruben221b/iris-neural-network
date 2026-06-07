@@ -37,7 +37,8 @@ Beyond just training a model, the project covers a full **MLOps workflow**:
 
 # 🚀 Try It Live
 
-> **[👉 Test the model with your own data](https://huggingface.co/spaces/Ruben221b/iris-nn-classifier)**
+<a href="https://huggingface.co/spaces/Ruben221b/iris-nn-classifier" target="_blank">👉 Test the model with your own data</a>
+
 
 Enter your own sepal and petal measurements and get an instant prediction with confidence scores.
 
